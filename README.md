@@ -13,6 +13,7 @@ That's all :-)
 
 ## How to use
 **pre-requist**
+* Mac
 * python 3.6+
   
 **prepare venv**
