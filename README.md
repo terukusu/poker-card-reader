@@ -1,5 +1,5 @@
 # poker-card-reader
-This is a card reader for certain types of online poker.  
+This is a card reader for certain types of online poker(Texas Hold'em).  
 This tools is only for Mac.  
   
 Looks like this.   
