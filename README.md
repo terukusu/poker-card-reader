@@ -1,8 +1,8 @@
 # poker-card-reader
-This is a card reader for certain types of online poker.
-This tools is only for Mac.
-
-Looks like this. 
+This is a card reader for certain types of online poker.  
+This tools is only for Mac.  
+  
+Looks like this.   
 <img width="80%" src="https://raw.githubusercontent.com/terukusu/poker-card-reader/images/images/screenshot_card_read.png" />
 
 ## How it works
