@@ -106,15 +106,15 @@ def create_template(suit, number):
 
 
 if __name__ == '__main__':
-    out_image = cv2.imread('images_for_test/poker.png')
+    # out_image = cv2.imread('images_for_test/poker.png')
 
-    # active_window_info = get_active_window_info()
-    #
-    # if active_window_info['kCGWindowOwnerName'] != 'PokerStars':
-    #     print('Active window is not PokerStars. exited.')
-    #     exit(0)
-    #
-    # out_image = capture_window(active_window_info)
+    active_window_info = get_active_window_info()
+
+    if active_window_info['kCGWindowOwnerName'] != 'PokerStars':
+        print('Active window is not PokerStars. exited.')
+        exit(0)
+
+    out_image = capture_window(active_window_info)
 
     # 画面の真ん中あたりを取得
     hh, ww = out_image.shape[:-1]
