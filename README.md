@@ -32,3 +32,4 @@ $ pip install -r requirements.txt
 $ watch -n 1 python main.py
 (after that, boot the certain online poker client and enjoy!)
 ```
+* Please try to resize window if card is not detected properly.
