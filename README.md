@@ -32,4 +32,5 @@ $ pip install -r requirements.txt
 $ watch -n 1 python main.py
 (after that, boot the certain online poker client and enjoy!)
 ```
+* You can isntall "watch" command using [homebrew](https://brew.sh/).
 * Please try to resize window if card is not detected properly.
